@@ -4,38 +4,41 @@ Welcome to my repository for Machine learning assignments completed as part of m
 # Folder Structure
 Each assignment has its own dedicated folder named:
 
-Assignment_1
-Assignment_2
-Assignment_3
-Assignment_4
-Assignment_5
-Assignment_6
-Assignment_7
+- Assignment_1
+- Assignment_2
+- Assignment_3
+- Assignment_4
+- Assignment_5
+- Assignment_6
+- Assignment_7
 
 Inside each folder, you will find:
 
-✅ Soft copy (theory .PDF)
-✅ Main code file (.ipynb)
-✅ Required dataset (.csv or .xlsx)
+- [x] Soft copy (theory .PDF)
+- [x] Main code file (.ipynb)
+- [x] Required dataset (.csv or .xlsx)
+
 
 # Topics Covered
 
 Across these 7 assignments, I have explored and implemented:
 
-Data preprocessing
-Classification models (e.g., Decision Tree)
-Regression
-Evaluation metrics (accuracy, precision, recall, F1-score)
-Data visualization (histograms, scatter plots, tree plots)
-Model training & testing using scikit-learn
+- [x] Data preprocessing
+- [x] Classification models (e.g., Decision Tree)
+- [x] Regression
+- [x] Evaluation metrics (accuracy, precision, recall, F1-score)
+- [x] Data visualization (histograms, scatter plots, tree plots)
+- [x] Model training & testing using scikit-learn
+
 
 # Libraries Used
 
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Scikit-learn
+- [x] Pandas
+- [x] Numpy
+- [x] Matplotlib
+- [x] Seaborn
+- [x] Scikit-learn
+
 
 
 Thanks for visiting! ⭐
